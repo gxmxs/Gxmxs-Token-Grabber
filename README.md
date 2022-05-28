@@ -1,6 +1,6 @@
                                       🌟 gxmxs token grabber V1!
 
-  **NOTA:** Este é um software livre. Ele não será detectado pelo software antivírus nem terá recursos personalizados. Lembre-se, isso é 100% gratuito. Se você quer um melhor.
+  **NOTA:** Este é um software livre. Ele não será detectado pelo software antivírus nem terá recursos personalizados. Lembre-se, isso é 100% gratuito.
 
 ---
 
