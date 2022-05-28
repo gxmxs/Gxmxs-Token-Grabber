@@ -1,4 +1,4 @@
-<## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 gxmxs token grabber V1!
+                                🌟 gxmxs token grabber V1!
 
   **NOTA:** Este é um software livre. Ele não será detectado pelo software antivírus nem terá recursos personalizados. Lembre-se, isso é 100% gratuito. Se você quer um melhor.
 
@@ -22,7 +22,7 @@ Love ❌ code ✅
 - Suas senhas e cartões de crédito para discord (atualizações quando eles mudam)
 - Todas as senhas e cookies do navegador Chrome
 > A notificação do webhook é assim:
-  <p align="left"><img src="file:///C:/Users/jasie/Documents/gxmxs-token-grabber-V1/screenshot.PNG">
+  <p align="left"><img src="screenshot.PNG">
   
   ### 📁・Configurando Gxmxs Token Grabber V1
 
